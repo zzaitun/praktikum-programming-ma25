@@ -8,3 +8,4 @@ print(f"{a} > 13 adalah {hasil}") # {9} > 13 adalah {False}
 
 hasil = b > 13
 print(f"{b} > 13 adalah {hasil} ")
+
